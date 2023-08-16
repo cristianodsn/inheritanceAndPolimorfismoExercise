@@ -1,0 +1,16 @@
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\bin\Debug\net5.0\exFixacaoherancaPolimorfismo.exe
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\bin\Debug\net5.0\exFixacaoherancaPolimorfismo.deps.json
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\bin\Debug\net5.0\exFixacaoherancaPolimorfismo.runtimeconfig.json
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\bin\Debug\net5.0\exFixacaoherancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\bin\Debug\net5.0\exFixacaoherancaPolimorfismo.dll
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\bin\Debug\net5.0\ref\exFixacaoherancaPolimorfismo.dll
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\bin\Debug\net5.0\exFixacaoherancaPolimorfismo.pdb
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.AssemblyInfo.cs
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.dll
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\ref\exFixacaoherancaPolimorfismo.dll
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.pdb
+C:\Users\crist\source\repos\exFixacaoherancaPolimorfismo\exFixacaoherancaPolimorfismo\obj\Debug\net5.0\exFixacaoherancaPolimorfismo.genruntimeconfig.cache
